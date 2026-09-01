@@ -26,3 +26,5 @@ Next I used the internet to find the yield strength of our assigned material and
 After determining the joint under the greatest stress was joint D in the previous step, I then found pin shear by combining the forces acting on joint D. I then used this figure to determine the minimum cross sectional area required by the pin.
 
 <img width="606" height="702" alt="Screenshot 2026-09-01 at 4 48 38 AM" src="https://github.com/user-attachments/assets/95487b6c-ee9e-4e63-acab-246fef1a7b2d" />
+
+
