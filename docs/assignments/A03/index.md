@@ -30,5 +30,11 @@ Finally I prepared my part for testing, by adding fixed geometry to one end of b
 
 <img width="536" height="608" alt="Screenshot 2026-09-08 at 1 29 18 AM" src="https://github.com/user-attachments/assets/fc1c0f11-f376-4680-b69e-479b6e919d26" />
 
+# Part 2:
+Using solid work's finite element analysis I create two plots: The deflection map and Von Mises Stress map. Using the Von Mises Stress map I was able to view both the yield strength of the material and the maximum stress in the beam. The maximum stress was significantly lower than yield strength with a safety factor of 19 being used.
 
+<img width="905" height="372" alt="Screenshot 2026-09-08 at 1 39 36 AM" src="https://github.com/user-attachments/assets/b314dc95-5218-47f8-94c3-e8a16c1bb762" />
 
+<img width="805" height="377" alt="Screenshot 2026-09-08 at 1 38 30 AM" src="https://github.com/user-attachments/assets/fc37c838-a89e-49fe-a8e1-5ace2363fb05" />
+
+<img width="1191" height="349" alt="Screenshot 2026-09-08 at 1 40 59 AM" src="https://github.com/user-attachments/assets/a9c4e7b8-fbba-4f0d-bab1-e77260a44669" />
