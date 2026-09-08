@@ -18,4 +18,9 @@ Next I created a new sketch, and drew two concentric circles about the origin. I
 
 <img width="838" height="597" alt="Screenshot 2026-09-08 at 1 14 46 AM" src="https://github.com/user-attachments/assets/3bd38649-9bd3-4aea-8d0e-5cb5754bf2a3" />
 
+Solid works did not have an aluminum alloy preset that possessed the required young's modulus. To account for this I created a custom material with properties identical 1060 Aluminum except for the corrected young's modulus. English units were not available for the material properties so I converted psi to N/m^2 before submitting.
+
+<img width="927" height="692" alt="Screenshot 2026-09-08 at 1 21 50 AM" src="https://github.com/user-attachments/assets/52feaa6c-b163-4381-8407-5a73b3052947" />
+
+
 
