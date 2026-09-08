@@ -8,8 +8,12 @@ After listing all known values I began by intuitively choosing values for outsid
 
 <img width="587" height="727" alt="Screenshot 2026-09-08 at 1 00 27 AM" src="https://github.com/user-attachments/assets/053280c2-50a9-495c-8fe6-d6c0026c570f" />
 
-At this point I was ready to model my beam using solid works. I began by changing the unit system to IPS and inputing all of my variables into solid works for later reference. Units such as psi and lbf were not available causing me to leave some entries without defined units.
+At this point I was ready to model my beam using solid works. I began by changing the unit system to IPS and inputing all of my variables into solid works for later reference. Units such as psi and lbf were not available causing me to leave some entries without defined units. The equations implemented through solid works mirrored the work I completed on paper
 
 <img width="924" height="449" alt="Screenshot 2026-09-08 at 1 08 23 AM" src="https://github.com/user-attachments/assets/d9943c77-0e59-4513-b0c1-e9b86edfd954" />
 
+Next I created a new sketch, and drew two concentric circles about the origin. I then assigned their dimensions to reflect the inner and outer diameters of my beam's cross sectional area. I then extruded the sketch to the calculated beam length of 413.07in.
+<img width="838" height="597" alt="Screenshot 2026-09-08 at 1 14 46 AM" src="https://github.com/user-attachments/assets/3bd38649-9bd3-4aea-8d0e-5cb5754bf2a3" />
+
+<img width="507" height="483" alt="Screenshot 2026-09-08 at 1 13 47 AM" src="https://github.com/user-attachments/assets/eb837172-0919-4b0e-8375-8b18d0e3aab1" />
 
