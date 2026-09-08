@@ -20,7 +20,15 @@ Next I created a new sketch, and drew two concentric circles about the origin. I
 
 Solid works did not have an aluminum alloy preset that possessed the required young's modulus. To account for this I created a custom material with properties identical 1060 Aluminum except for the corrected young's modulus. English units were not available for the material properties so I converted psi to N/m^2 before submitting.
 
-<img width="927" height="692" alt="Screenshot 2026-09-08 at 1 21 50 AM" src="https://github.com/user-attachments/assets/52feaa6c-b163-4381-8407-5a73b3052947" />
+<img width="490" height="587" alt="Screenshot 2026-09-08 at 1 23 33 AM" src="https://github.com/user-attachments/assets/7356941b-2926-4593-a315-cb97c982cb55" />
+
+Finally I prepared my part for testing, by adding fixed geometry to one end of beam, a tension force to other, and standard mesh to the the entire part. As with young's modulus, I had to convert to metric units before adding my load magnitude.
+
+<img width="833" height="607" alt="Screenshot 2026-09-08 at 1 27 22 AM" src="https://github.com/user-attachments/assets/8b08e74c-9d71-4075-80f6-a6423527cb3a" />
+
+<img width="507" height="443" alt="Screenshot 2026-09-08 at 1 28 15 AM 1" src="https://github.com/user-attachments/assets/09894f10-3946-4291-850f-3bb25f5a6d1b" />
+
+<img width="536" height="608" alt="Screenshot 2026-09-08 at 1 29 18 AM" src="https://github.com/user-attachments/assets/fc1c0f11-f376-4680-b69e-479b6e919d26" />
 
 
 
