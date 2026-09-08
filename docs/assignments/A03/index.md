@@ -44,6 +44,6 @@ The axial deformation assigned was .009in however my FEA determined a value of .
 
 One lesson I learned completing this project was to ensure I convert all my values into a single unit system before beginning my design in solid works. My completion time of 4 hours could have been cut drastically if I had followed this rule.
 
-https://raw.githubusercontent.com/TaiPodUNCC/megr2157-portfolio/blob/main/docs/assignments/A3%20Bar.SLDPRT
-
+[https://raw.githubusercontent.com/TaiPodUNCC/megr2157-portfolio/blob/main/docs/assignments/A3%20Bar.SLDPRT
+](https://github.com/TaiPodUNCC/megr2157-portfolio/raw/refs/heads/main/A3%20Bar.SLDPRT)
 
