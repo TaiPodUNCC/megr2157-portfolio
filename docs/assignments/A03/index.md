@@ -38,3 +38,8 @@ Using solid work's finite element analysis I create two plots: The deflection ma
 <img width="805" height="377" alt="Screenshot 2026-09-08 at 1 38 30 AM" src="https://github.com/user-attachments/assets/fc37c838-a89e-49fe-a8e1-5ace2363fb05" />
 
 <img width="1191" height="349" alt="Screenshot 2026-09-08 at 1 40 59 AM" src="https://github.com/user-attachments/assets/a9c4e7b8-fbba-4f0d-bab1-e77260a44669" />
+
+# Part 3:
+The axial deformation assigned was .009in however my FEA determined a value of .09in which accounts for a  900% difference. While this is a huge difference it is an increase by a factor of 10 which suggests the error was caused be a calculation or conversion mistake. Unfortunately after checking all of my numbers multiple times in search of an extra or forgotten 0, I could not identify the cause. One possible explanation is that the discrepancy was caused by solid works conversion between english and metric units as I used values from both systems for my variables. Ultimately I would trust my hand calculations as they are fully transparent and can be easily verified unlike solid works automatic calculations. 
+
+One lesson I learned completing this project was to ensure I convert all my values into a single unit system before beginning my design in solid works. My completion time of 4 hours could have been cut drastically if I had followed this rule.
