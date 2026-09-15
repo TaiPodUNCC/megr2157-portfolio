@@ -35,6 +35,11 @@ I then extruded again to reveal the faces of my features. I determine the extrud
 
 <img width="469" height="447" alt="Screenshot 2026-09-15 at 12 42 27 AM" src="https://github.com/user-attachments/assets/ee3c4c9d-deae-47e8-9486-4ca41dbc8ac2" />
 
+Next I created sketches for each hole on feature 1, and extruded them to their specified lengths.
+<img width="487" height="527" alt="Screenshot 2026-09-15 at 12 46 24 AM" src="https://github.com/user-attachments/assets/114405c9-e7ea-4f78-98cf-a9a3331a9362" />
+<img width="463" height="418" alt="Screenshot 2026-09-15 at 12 46 10 AM" src="https://github.com/user-attachments/assets/9b07f02d-377d-4c0a-8cb4-2d69798ea7ca" />
+<img width="517" height="501" alt="Screenshot 2026-09-15 at 12 45 54 AM" src="https://github.com/user-attachments/assets/8f6f0704-6c7a-4458-812a-1425fd579946" />
+<img width="365" height="461" alt="Screenshot 2026-09-15 at 12 45 23 AM" src="https://github.com/user-attachments/assets/8132c074-3d70-4645-8f33-7e187ed06797" />
 
 
 
