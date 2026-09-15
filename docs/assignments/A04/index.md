@@ -57,6 +57,8 @@ Finally I repeated the process for feature 2's holes, finalizing my motor mount.
 # Lessons Learned:
 This project took me approximately 4.5 hours to complete. In this time I was able to learn how to apply parametric equations within a design process. It also allowed me to reinforce concepts learned in previous classes.
 
+# CAD File:
+
 [https://raw.githubusercontent.com/TaiPodUNCC/megr2157-portfolio/blob/main/a4_motor_mount.prt.1
 ](https://github.com/TaiPodUNCC/megr2157-portfolio/raw/refs/heads/main/a4_motor_mount.prt.1)
 
