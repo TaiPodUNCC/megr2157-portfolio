@@ -23,8 +23,11 @@ Using the final dimensions found in the previous step and the provided motor dim
 
 # CAD Design:
 I decided to model my part in Creo Parametric due to my familiarity with the software. I began changing the unit system to meters.
+
 <img width="555" height="655" alt="Screenshot 2026-09-15 at 12 37 42 AM" src="https://github.com/user-attachments/assets/7b1b7553-b058-4f59-8625-aa88667aef06" />
+
 Next I created and extruded a sketch to create a cube with side length .056m.
+
 <img width="528" height="518" alt="Screenshot 2026-09-15 at 12 39 14 AM" src="https://github.com/user-attachments/assets/e66ffce8-f295-41e6-adf8-6074a3e1eb4e" />
 <img width="449" height="365" alt="Screenshot 2026-09-15 at 12 39 28 AM" src="https://github.com/user-attachments/assets/d1f67742-79c2-41f5-8f75-e54e33312c20" />
 
