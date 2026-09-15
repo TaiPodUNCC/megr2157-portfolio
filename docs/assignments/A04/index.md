@@ -54,6 +54,8 @@ Finally I repeated the process for feature 2's holes, finalizing my motor mount.
 <img width="519" height="597" alt="Screenshot 2026-09-15 at 12 48 41 AM" src="https://github.com/user-attachments/assets/dc9aaa95-7825-4430-a65e-02fa86275088" />
 <img width="421" height="460" alt="Screenshot 2026-09-15 at 12 48 55 AM" src="https://github.com/user-attachments/assets/42bc9832-c995-4bea-ad00-72c267a10c9b" />
 
+# Lessons Learned:
+This project took me approximately 4.5 hours to complete. In this time I was able to learn how to apply parametric equations within a design process. It also allowed me to reinforce concepts learned in previous classes.
 
 
 
