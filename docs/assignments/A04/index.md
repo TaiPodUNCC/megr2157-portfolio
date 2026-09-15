@@ -17,4 +17,9 @@ I began by drawing a rough sketch of the 2 features comprising the motor mount. 
 Since feature 2 is comprised of the same material and has the same outside dimensions as feature 1, the process to find the height was identical after calculating my new moment.
 <img width="542" height="651" alt="Screenshot 2026-09-15 at 12 30 38 AM" src="https://github.com/user-attachments/assets/0cbd5936-c3a2-41f7-aaa3-930937b60cd5" />
 
+# Sketch:
+Using the final dimensions found in the previous step and the provided motor dimensions I drafted a 3d sketch of my design. 
+<img width="412" height="724" alt="Screenshot 2026-09-15 at 12 34 02 AM" src="https://github.com/user-attachments/assets/89df0a19-fcff-46b8-be58-f7d29d278017" />
+
+
 
