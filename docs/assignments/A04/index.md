@@ -31,6 +31,10 @@ Next I created and extruded a sketch to create a cube with side length .056m.
 <img width="528" height="518" alt="Screenshot 2026-09-15 at 12 39 14 AM" src="https://github.com/user-attachments/assets/e66ffce8-f295-41e6-adf8-6074a3e1eb4e" />
 <img width="449" height="365" alt="Screenshot 2026-09-15 at 12 39 28 AM" src="https://github.com/user-attachments/assets/d1f67742-79c2-41f5-8f75-e54e33312c20" />
 
+I then extruded again to reveal the faces of my features. I determine the extrude length by subtracting the height of the second feature from the overall side length.
+
+<img width="469" height="447" alt="Screenshot 2026-09-15 at 12 42 27 AM" src="https://github.com/user-attachments/assets/ee3c4c9d-deae-47e8-9486-4ca41dbc8ac2" />
+
 
 
 
