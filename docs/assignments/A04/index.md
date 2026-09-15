@@ -41,6 +41,10 @@ Next I created sketches for each hole on feature 1, and extruded them to their s
 <img width="517" height="501" alt="Screenshot 2026-09-15 at 12 45 54 AM" src="https://github.com/user-attachments/assets/8f6f0704-6c7a-4458-812a-1425fd579946" />
 <img width="365" height="461" alt="Screenshot 2026-09-15 at 12 45 23 AM" src="https://github.com/user-attachments/assets/8132c074-3d70-4645-8f33-7e187ed06797" />
 
+Finally I repeated the process for feature 2's holes, finalizing my motor mount.<img width="519" height="597" alt="Screenshot 2026-09-15 at 12 48 41 AM" src="https://github.com/user-attachments/assets/dc9aaa95-7825-4430-a65e-02fa86275088" />
+<img width="421" height="460" alt="Screenshot 2026-09-15 at 12 48 55 AM" src="https://github.com/user-attachments/assets/42bc9832-c995-4bea-ad00-72c267a10c9b" />
+
+
 
 
 
