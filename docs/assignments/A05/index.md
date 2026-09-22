@@ -35,7 +35,7 @@ Finally I took the dimensions found in my calculations and applied them to a mul
 
 <img width="479" height="579" alt="Screenshot 2026-09-21 at 10 58 51 PM" src="https://github.com/user-attachments/assets/cb0b1ce3-3a98-4872-a175-0af38054cbe1" />
 
-
-
+# Lessons Learned
+This project used similar concepts as A4 but made us implement a wide range of formulas. Over the 4 hours it took me to complete this assignment I improved my ability to search for formulas and utilize the Machinery's handbook.
 
 
