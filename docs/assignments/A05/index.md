@@ -7,4 +7,10 @@ In this project we were tasked to design a bracket to hold an applied force from
 
 <img width="543" height="366" alt="Screenshot 2026-09-21 at 10 31 37 PM" src="https://github.com/user-attachments/assets/3e19131a-e8fc-45f9-868b-8b926ef154e3" />
 
+# Initial set up
+I arbitrarily chose aluminum for my material and 500 lbf for my force F value. I then used an online resource to determine the required material properties of my material.
+
+<img width="642" height="496" alt="Screenshot 2026-09-21 at 10 35 17 PM" src="https://github.com/user-attachments/assets/23574519-f9f4-49bf-be6b-954b421ca8a2" />
+
+
 
