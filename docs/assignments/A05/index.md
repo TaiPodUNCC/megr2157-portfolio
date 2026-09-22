@@ -20,6 +20,14 @@ For each of the 5 features, I created a free body diagram and listed the assumpt
 <img width="457" height="608" alt="Screenshot 2026-09-21 at 10 45 17 PM" src="https://github.com/user-attachments/assets/69b800ed-9d2e-4463-beb9-de8574a2d973" />
 <img width="429" height="548" alt="Screenshot 2026-09-21 at 10 44 59 PM" src="https://github.com/user-attachments/assets/a7fddb47-1c60-4de3-aee5-a737c0d7d725" />
 
+# Stiffness Analysis
+I used the same set up for each feature as used in stress analysis, but included a known value for maximum deflection of .005 in per instructions. I used this known value to find the same unknown dimensions as in stress analysis but using deflection formulas found in the machinery's handbook instead.
+<img width="463" height="613" alt="Screenshot 2026-09-21 at 10 53 16 PM" src="https://github.com/user-attachments/assets/00fd1997-2a47-4639-b934-4c5df1daadfc" />
+<img width="395" height="512" alt="Screenshot 2026-09-21 at 10 53 33 PM" src="https://github.com/user-attachments/assets/ad3de873-6238-4a4b-871c-6d1cf14568b9" />
+<img width="463" height="552" alt="Screenshot 2026-09-21 at 10 53 49 PM" src="https://github.com/user-attachments/assets/fcf31b19-dfc3-4135-89e1-592aa8268ef7" />
+<img width="445" height="565" alt="Screenshot 2026-09-21 at 10 54 06 PM" src="https://github.com/user-attachments/assets/380b4f29-65ba-436a-8255-2254fbd53761" />
+<img width="406" height="382" alt="Screenshot 2026-09-21 at 10 54 27 PM" src="https://github.com/user-attachments/assets/ffd6556d-0220-4612-93de-f6a221fc72ec" />
+
 
 
 
