@@ -28,6 +28,14 @@ I used the same set up for each feature as used in stress analysis, but included
 <img width="445" height="565" alt="Screenshot 2026-09-21 at 10 54 06 PM" src="https://github.com/user-attachments/assets/380b4f29-65ba-436a-8255-2254fbd53761" />
 <img width="406" height="382" alt="Screenshot 2026-09-21 at 10 54 27 PM" src="https://github.com/user-attachments/assets/ffd6556d-0220-4612-93de-f6a221fc72ec" />
 
+# Multiview Drawings
+Finally I took the dimensions found in my calculations and applied them to a multiview drawing.
+
+<img width="453" height="493" alt="Screenshot 2026-09-21 at 10 58 34 PM" src="https://github.com/user-attachments/assets/de6adec5-d6cf-4f9c-8c9b-259615151000" />
+
+<img width="479" height="579" alt="Screenshot 2026-09-21 at 10 58 51 PM" src="https://github.com/user-attachments/assets/cb0b1ce3-3a98-4872-a175-0af38054cbe1" />
+
+
 
 
 
