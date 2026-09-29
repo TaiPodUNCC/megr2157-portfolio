@@ -36,4 +36,5 @@ Finally I created my multi view drawing and added front, right, top, and paramet
 
 # 3D model Download
 
-
+[https://raw.githubusercontent.com/TaiPodUNCC/megr2157-portfolio/blob/main/6A.SLDPRT
+](https://github.com/TaiPodUNCC/megr2157-portfolio/raw/refs/heads/main/6a.SLDPRT)
