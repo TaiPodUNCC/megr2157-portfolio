@@ -34,8 +34,11 @@ Finally I created my multi view drawing and added front, right, top, and paramet
 
 <img width="689" height="533" alt="Screenshot 2026-09-28 at 10 11 08 PM" src="https://github.com/user-attachments/assets/409a6537-49d5-4911-a6ff-7e125e23e5fe" />
 
-# 3D model Download
+# 3D Model Download
 
 [https://raw.githubusercontent.com/TaiPodUNCC/megr2157-portfolio/blob/main/6A.SLDPRT
 ](https://github.com/TaiPodUNCC/megr2157-portfolio/raw/refs/heads/main/6A.SLDPRT)
+
+# Reflections
+One strength equation I used in my parametric model was: Z=SF(w)(l)(1/2*Sy), r=(4*Z*(1/pi))^1/3. This equation solved for the radius of feature A. I expressed this equation in Solid Works as global variable "a" and applied it as dimension definition in my second sketch. Due to rounding, the CAD equation result was slightly less than my hand calculation. I applied a tighter tolerance to the mating surfaces that come in contact with the T-bar. This was to ensure the parts fit will be less effected by manufacturing variation. This degree of tolerance was not used in the outside dimensions as this would drive up the cost of productions for no real gain. Over the 4 hours it took me to complete this project the biggest lesson I learned was to check my work before moving forward to avoid having to search for your mistake.
 
