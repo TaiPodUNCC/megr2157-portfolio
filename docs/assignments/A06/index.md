@@ -14,7 +14,7 @@ After opening Solid Works I changed the unit system to IPS, to ensure the units 
 <img width="510" height="296" alt="Screenshot 2026-09-28 at 9 51 40 PM" src="https://github.com/user-attachments/assets/e50af2bc-3702-4a07-9bf0-c2c40bd9c8b9" />
 
 # Solid Works Model:
-I began creating my model by deciding whether or not I wanted to make each feature its own part. I decided on making the entire bracket as a single part and making each feature its own sketch to avoid having to create an assembly. I started with feature B, then continued on with A, C, D, and E respectively. Despite the sketches requiring a greater number of dimensions to be defined compared to the global variables I entered, I did not manually enter a single one. I accomplished this by manipulating the defined global variables by adding or subtracting from each other. During this stage I made the mistake of accidentally using the wrong variable without realizing causing me to waste nearly an hour searching for my error. Once my part was finished I surprised to see how differently my part looked compared to my initial sketch.
+I began creating my model by deciding whether or not I wanted to make each feature its own part. I decided on making the entire bracket as a single part and making each feature its own sketch to avoid having to create an assembly. I started with feature B, then continued on with A, C, D, and E respectively. Despite the sketches requiring a greater number of dimensions to be defined compared to the global variables I entered, I did not manually enter a single one. I accomplished this by manipulating the defined global variables by adding or subtracting from each other. During this stage I made the mistake of accidentally using the wrong variable without realizing causing me to waste nearly an hour searching for my error. Once my part was finished I surprised to see how differently my part looked compared to my initial sketch due to its dimensions not being drawn to scale.
 
 
 <img width="538" height="485" alt="Screenshot 2026-09-28 at 10 02 11 PM" src="https://github.com/user-attachments/assets/bd3355df-f86f-4e3e-8214-7f222bd680b7" />
@@ -28,4 +28,10 @@ I began creating my model by deciding whether or not I wanted to make each featu
 <img width="554" height="562" alt="Screenshot 2026-09-28 at 10 03 24 PM" src="https://github.com/user-attachments/assets/f6d4b2d0-651c-4002-af1a-7c2ea707d6d2" />
 
 <img width="446" height="536" alt="Screenshot 2026-09-28 at 10 03 41 PM" src="https://github.com/user-attachments/assets/50ecc715-e15c-4dd2-a8df-cb446ab848d3" />
+
+# Solid Works Drawing
+Finally I created my multi view drawing and added front, right, top, and parametric views. I added all necessary dimensions, selected hidden lines to be shown, and added necessary labels, concluding with a copy of the tolerance box specified in the project instructions.
+
+<img width="689" height="533" alt="Screenshot 2026-09-28 at 10 11 08 PM" src="https://github.com/user-attachments/assets/409a6537-49d5-4911-a6ff-7e125e23e5fe" />
+
 
