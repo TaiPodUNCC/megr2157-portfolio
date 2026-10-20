@@ -16,3 +16,15 @@ Next I added fixed geometry to the two surfaces in contact with the bar. This al
 
 <img width="548" height="543" alt="Screenshot 2026-10-20 at 4 11 06 PM" src="https://github.com/user-attachments/assets/a772e4c5-6b0b-4970-b2e5-7af58340e14c" />
 
+# Design 1
+I set mesh to default and ran the first iteration. After running I recorded values for max stress, max deflection, factor of safety (with automatic failure criterion), mass, and number of mesh elements. 
+
+<img width="944" height="518" alt="Screenshot 2026-10-20 at 4 47 00 PM" src="https://github.com/user-attachments/assets/ecb80b39-20ba-4455-97f6-9953b6d3c801" />
+
+Next I increased the mesh density to be 75 percent of fine and ran the study again. After running I recorded values for max stress, max deflection, factor of safety (with automatic failure criterion), mass, and number of mesh elements.
+
+<img width="955" height="494" alt="Screenshot 2026-10-20 at 4 52 23 PM" src="https://github.com/user-attachments/assets/567fb746-7d2e-406e-9eb0-734191182187" />
+
+When checking for convergence using formula 2((xf-xi)/(xi+xf))*100 I found both FOS and ma stress to be greater than 7 percent causing me to try again with iteration 3.
+
+
