@@ -3,5 +3,9 @@
 # Introduction:
 For this project we were tasked with using finite element analysis on the bracket part designed and modeled in assignments #5 and #6, to find areas in which we can improve our design. After completing FEA and confirming convergence with finer mesh values, we use the data found to improve our design. this process is to be repeated for two improved designs.
 
+# Setting up:
+I began by opening my part file from assignment #6 in Solidworks. I noticed that the material was not already defined so I set it to 6061 t6 aluminum in accordance with previous assignments. Next I started a new FEA study using default settings. Finally, I created a plane through feature A to be used as a reference when implementing the known forces for the simulation. To acomplish this I created a point at the center of feature A's face and added a plane coincident to it and parallel to the features length.
 
+<img width="427" height="473" alt="Screenshot 2026-10-20 at 3 39 17 PM" src="https://github.com/user-attachments/assets/b8e81855-b4e4-4c2f-8f20-3032af1f821c" />
 
+<img width="530" height="393" alt="Screenshot 2026-10-20 at 3 38 58 PM" src="https://github.com/user-attachments/assets/56339fc6-c16e-4b85-9ae7-07436167021b" />
