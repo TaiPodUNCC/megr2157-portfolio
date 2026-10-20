@@ -21,10 +21,13 @@ I set mesh to default and ran the first iteration. After running I recorded valu
 
 <img width="944" height="518" alt="Screenshot 2026-10-20 at 4 47 00 PM" src="https://github.com/user-attachments/assets/ecb80b39-20ba-4455-97f6-9953b6d3c801" />
 
-Next I increased the mesh density to be 75 percent of fine and ran the study again. After running I recorded values for max stress, max deflection, factor of safety (with automatic failure criterion), mass, and number of mesh elements.
+Next I increased the mesh density to be 75 percent of fine and ran the study again. After running I recorded values for max stress, max deflection, factor of safety (with automatic failure criterion), mass, and number of mesh elements. When checking for convergence using formula 2((xf-xi)/(xi+xf))*100 I found both FOS and ma stress to be greater than 7 percent causing me to try again with iteration 3.
+
 
 <img width="955" height="494" alt="Screenshot 2026-10-20 at 4 52 23 PM" src="https://github.com/user-attachments/assets/567fb746-7d2e-406e-9eb0-734191182187" />
 
-When checking for convergence using formula 2((xf-xi)/(xi+xf))*100 I found both FOS and ma stress to be greater than 7 percent causing me to try again with iteration 3.
+I increased mesh density to fine and ran the simulation. After running I recorded values for max stress, max deflection, factor of safety (with automatic failure criterion), mass, and number of mesh elements. When checking for convergence using formula 2((xf-xi)/(xi+xf))*100 I found once again convergence was not achieved. Despite this I had enough information to begin my redesign.
+
+<img width="951" height="517" alt="Screenshot 2026-10-20 at 5 09 51 PM" src="https://github.com/user-attachments/assets/7b51a83a-e34a-477f-ab64-06e7fa9bf35c" />
 
 
