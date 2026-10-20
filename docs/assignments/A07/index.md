@@ -33,3 +33,4 @@ I increased mesh density to fine and ran the simulation. After running I recorde
 <img width="526" height="160" alt="Screenshot 2026-10-20 at 5 10 38 PM" src="https://github.com/user-attachments/assets/78aa857a-2bdc-42da-908e-83a1e9988947" />
 
 # Design 2:
+As the main mode of failure in design 1 was the stress in feature b, I updated my design with a triangular support connect
