@@ -1,3 +1,5 @@
+<img width="526" height="160" alt="Screenshot 2026-10-20 at 5 10 38 PM" src="https://github.com/user-attachments/assets/78aa857a-2bdc-42da-908e-83a1e9988947" />
+<img width="526" height="160" alt="Screenshot 2026-10-20 at 5 10 38 PM" src="https://github.com/user-attachments/assets/ae6b2f72-caf5-43d4-82e4-32ca63525e37" />
 # A7: FEA on Bracket
 
 # Introduction:
