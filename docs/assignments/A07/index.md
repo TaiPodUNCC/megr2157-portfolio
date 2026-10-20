@@ -31,3 +31,5 @@ I increased mesh density to fine and ran the simulation. After running I recorde
 <img width="951" height="517" alt="Screenshot 2026-10-20 at 5 09 51 PM" src="https://github.com/user-attachments/assets/7b51a83a-e34a-477f-ab64-06e7fa9bf35c" />
 
 <img width="526" height="160" alt="Screenshot 2026-10-20 at 5 10 38 PM" src="https://github.com/user-attachments/assets/78aa857a-2bdc-42da-908e-83a1e9988947" />
+
+# Design 2:
