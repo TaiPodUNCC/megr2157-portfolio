@@ -48,4 +48,6 @@ Next I increased the mesh density to be 75 percent of fine and ran the study aga
 <img width="533" height="155" alt="Screenshot 2026-10-20 at 8 26 01 PM" src="https://github.com/user-attachments/assets/b58dfb4b-1f7a-4133-8fb3-a9cc80896a11" />
 
 # Design 3:
+[https://raw.githubusercontent.com/TaiPodUNCC/megr2157-portfolio/blob/main/A7.SLDPRT
+](https://github.com/TaiPodUNCC/megr2157-portfolio/raw/refs/heads/main/A7.SLDPRT)
 
