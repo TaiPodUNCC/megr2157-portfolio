@@ -41,5 +41,11 @@ I reset the mesh density to default and ran the simulation. After running I reco
 
 <img width="882" height="535" alt="Screenshot 2026-10-20 at 8 13 18 PM" src="https://github.com/user-attachments/assets/47ddac27-aa6a-4cd4-9b57-7b7ede6e54bf" />
 
+Next I increased the mesh density to be 75 percent of fine and ran the study again. After running I recorded values for max stress, max deflection, factor of safety (with automatic failure criterion), mass, and number of mesh elements. When checking for convergence using formula 2((xf-xi)/(xi+xf))*100. All relevant convergence values were below 7 percent so convergence was met and a third iteration is unnecessary. The max stress was below yield strength and the max deflection was only over the limit by one thousandth of an inch, telling me my design was on track to completion.
 
+<img width="887" height="568" alt="Screenshot 2026-10-20 at 8 23 24 PM" src="https://github.com/user-attachments/assets/2c6d451d-3672-449a-83ce-d1c40d76c1ce" />
+
+<img width="533" height="155" alt="Screenshot 2026-10-20 at 8 26 01 PM" src="https://github.com/user-attachments/assets/b58dfb4b-1f7a-4133-8fb3-a9cc80896a11" />
+
+# Design 3:
 
