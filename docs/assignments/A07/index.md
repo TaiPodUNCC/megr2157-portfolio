@@ -33,10 +33,13 @@ I increased mesh density to fine and ran the simulation. After running I recorde
 <img width="526" height="160" alt="Screenshot 2026-10-20 at 5 10 38 PM" src="https://github.com/user-attachments/assets/78aa857a-2bdc-42da-908e-83a1e9988947" />
 
 # Design 2:
-As the main mode of failure in design 1 was the stress in feature B, I updated my design with a triangular support reinforcing feature B. Additionally I removed redundant material in feature A and added two triangular supports to prevent deformation in the side walls.
+The main mode of failure in design 1 was the stress in feature B, I updated my design with a triangular support reinforcing feature B. Additionally, with the weakness of the side walls being apparent in my design from their deflection in the first test, I decided to increase their thickness and close one side of the bracket. This allows the bar to still be able to enter while drastically increasing the strength of my side walls.
 
-<img width="477" height="571" alt="Screenshot 2026-10-20 at 7 29 03 PM" src="https://github.com/user-attachments/assets/f5d98c77-b9c0-46e4-a098-45b05a87129a" />
- 
+<img width="381" height="504" alt="Screenshot 2026-10-20 at 8 07 25 PM" src="https://github.com/user-attachments/assets/f0a5a2a5-1f04-44f0-80d3-f2aa69c79e80" />
+
 I reset the mesh density to default and ran the simulation. After running I recorded values for max stress, max deflection, factor of safety (with automatic failure criterion), mass, and number of mesh elements.
+
+<img width="882" height="535" alt="Screenshot 2026-10-20 at 8 13 18 PM" src="https://github.com/user-attachments/assets/47ddac27-aa6a-4cd4-9b57-7b7ede6e54bf" />
+
 
 
