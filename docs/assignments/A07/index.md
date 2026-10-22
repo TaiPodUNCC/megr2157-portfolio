@@ -58,5 +58,7 @@ I reset the mesh density to default and ran the simulation. After running I reco
 
 <img width="531" height="150" alt="Screenshot 2026-10-21 at 7 57 29 PM" src="https://github.com/user-attachments/assets/1baed215-1dab-445a-ac58-eae0dca674c6" />
 
-
+# #3D Model:
+[https://raw.githubusercontent.com/TaiPodUNCC/megr2157-portfolio/blob/main/A7.SLDPRT
+](https://github.com/TaiPodUNCC/megr2157-portfolio/raw/refs/heads/main/A7.SLDPRT)
 
