@@ -58,7 +58,10 @@ I reset the mesh density to default and ran the simulation. After running I reco
 
 <img width="531" height="150" alt="Screenshot 2026-10-21 at 7 57 29 PM" src="https://github.com/user-attachments/assets/1baed215-1dab-445a-ac58-eae0dca674c6" />
 
-# #3D Model:
+# 3D Model:
 [https://raw.githubusercontent.com/TaiPodUNCC/megr2157-portfolio/blob/main/A7.SLDPRT
 ](https://github.com/TaiPodUNCC/megr2157-portfolio/raw/refs/heads/main/A7.SLDPRT)
+
+# Reflection:
+This project took me a total of 5 hours. Over the course of this time I became as comfortable using Solidworks as Creo which will be helpful moving forward. Using the FEA process introduced me to a new way to improve my designs using trial and error. This will allow me to quickly make alterations in less time compared to relying solely on manual calculations.
 
