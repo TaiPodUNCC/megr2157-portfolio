@@ -55,7 +55,7 @@ Finally, I opened a new assembly tab and used "mates" to connect all of my compo
 <img width="538" height="410" alt="Screenshot 2026-11-03 at 7 35 09 AM" src="https://github.com/user-attachments/assets/302ef4f9-ff20-4db2-9f52-d3f9408c91bc" />
 
 # Download link:
-
+A8 assembly.SLDASM
 
 
 
