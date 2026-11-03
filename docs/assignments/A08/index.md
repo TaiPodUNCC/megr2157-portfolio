@@ -24,5 +24,11 @@ Once again I listed all my known values, then rearranged the pressure equation t
 
 <img width="687" height="653" alt="Screenshot 2026-11-03 at 5 14 48 AM" src="https://github.com/user-attachments/assets/d15cae3f-eeaf-4117-8345-3e2ddb66f075" />
 
+# Basic Gear Box Sketch:
+Before moving on to my Solidworks I created a basic sketch of my box to using the dimensions of my chosen gears.
+
+<img width="1365" height="689" alt="Screenshot 2026-11-03 at 5 36 55 AM" src="https://github.com/user-attachments/assets/e3e26095-e5f4-4cc5-acea-44e89e01f6cd" />
+
+
 
 
