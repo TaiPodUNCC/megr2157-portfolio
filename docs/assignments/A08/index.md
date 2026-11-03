@@ -14,5 +14,10 @@ To confirm that our given input shaft diameter of .125in was sufficient, I deter
 
 <img width="485" height="294" alt="Screenshot 2026-11-03 at 4 05 11 AM" src="https://github.com/user-attachments/assets/a96ec42a-0b6d-42f1-b0ac-dd38ce2d4b25" />
 
+# Bearing Material:
+I began by listing my known values, then setting up equations for Ft, Fr, P, V, and PV. Next I plugged in values for both my input and output gears. Finally, after referencing the material list from the lecture slides, I decided on graphite as it was within the calculated tolerance for all parameters.
+
+<img width="458" height="651" alt="Screenshot 2026-11-03 at 5 11 04 AM" src="https://github.com/user-attachments/assets/f8f2cd46-8299-483c-8abe-b32378ffcd60" />
+
 
 
