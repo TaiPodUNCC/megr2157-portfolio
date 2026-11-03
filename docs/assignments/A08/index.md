@@ -48,6 +48,13 @@ Next I uploaded the pair of gears and pair of bearings from the McMaster website
 
 <img width="405" height="375" alt="Screenshot 2026-11-03 at 7 30 29 AM" src="https://github.com/user-attachments/assets/a1a1614a-e315-41bb-a58d-3e413fcfbc1b" />
 
+Finally, I opened a new assembly tab and used "mates" to connect all of my components into my final gear box. 
+
+<img width="502" height="489" alt="Screenshot 2026-11-03 at 7 35 25 AM" src="https://github.com/user-attachments/assets/4e68811c-c527-4ce6-8084-26517c41507d" />
+
+<img width="538" height="410" alt="Screenshot 2026-11-03 at 7 35 09 AM" src="https://github.com/user-attachments/assets/302ef4f9-ff20-4db2-9f52-d3f9408c91bc" />
+
+
 
 
 
