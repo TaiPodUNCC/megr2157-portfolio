@@ -55,10 +55,10 @@ Finally, I opened a new assembly tab and used "mates" to connect all of my compo
 <img width="538" height="410" alt="Screenshot 2026-11-03 at 7 35 09 AM" src="https://github.com/user-attachments/assets/302ef4f9-ff20-4db2-9f52-d3f9408c91bc" />
 
 # Download link:
-A8 assembly.SLDASM
 [https://raw.githubusercontent.com/TaiPodUNCC/megr2157-portfolio/blob/main/A8_assembly.SLDASM](https://github.com/TaiPodUNCC/megr2157-portfolio/raw/refs/heads/main/A8_assembly.SLDASM)
 
-
+# Reflection:
+This project took me 4.5 hours to complete. Over this time I was able to familiarize myself with Solidworks assembly process. Even though it was my first time using it, I found it to be more intuitive which further reinforces my preference of this platform over Creo Parametric.
 
 
 
