@@ -27,7 +27,30 @@ Once again I listed all my known values, then rearranged the pressure equation t
 # Basic Gear Box Sketch:
 Before moving on to my Solidworks I created a basic sketch of my box to using the dimensions of my chosen gears.
 
-<img width="1365" height="689" alt="Screenshot 2026-11-03 at 5 36 55 AM" src="https://github.com/user-attachments/assets/e3e26095-e5f4-4cc5-acea-44e89e01f6cd" />
+<img width="1305" height="657" alt="Screenshot 2026-11-03 at 7 23 28 AM" src="https://github.com/user-attachments/assets/ccd3a4d1-532e-4b65-99f6-b35b9d6c69ae" />
+
+# Individual part models:
+In total I had to obtain 7 Solidworks part models: 2 shafts, 2 bearings, 2 gears, and half of my gear box.
+
+I began by creating both shafts to their specified length and diameter. 
+
+<img width="400" height="546" alt="Screenshot 2026-11-03 at 7 27 03 AM" src="https://github.com/user-attachments/assets/286fa1d5-99e8-4423-add8-36e0856179ac" />
+
+<img width="329" height="515" alt="Screenshot 2026-11-03 at 7 26 42 AM" src="https://github.com/user-attachments/assets/daebbb84-8375-469b-9db5-5b814d9d0c9a" />
+
+Next I uploaded the pair of gears and pair of bearings from the McMaster website
+
+<img width="362" height="345" alt="Screenshot 2026-11-03 at 7 30 09 AM" src="https://github.com/user-attachments/assets/be035452-926b-4708-8bc6-a9041809e438" />
+
+<img width="490" height="540" alt="Screenshot 2026-11-03 at 7 29 29 AM" src="https://github.com/user-attachments/assets/9f8f80e9-397c-4f97-b991-d41ea1815d25" />
+
+<img width="464" height="571" alt="Screenshot 2026-11-03 at 7 29 45 AM" src="https://github.com/user-attachments/assets/ad5a11d8-c34d-417f-bd46-5cebdcc5b93c" />
+
+<img width="405" height="375" alt="Screenshot 2026-11-03 at 7 30 29 AM" src="https://github.com/user-attachments/assets/a1a1614a-e315-41bb-a58d-3e413fcfbc1b" />
+
+
+
+
 
 
 
