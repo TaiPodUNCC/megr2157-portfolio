@@ -56,7 +56,7 @@ Finally, I opened a new assembly tab and used "mates" to connect all of my compo
 
 # Download link:
 A8 assembly.SLDASM
-[https://raw.githubusercontent.com/TaiPodUNCC/megr2157-portfolio/blob/main/A8 assembly.SLDASM](https://github.com/TaiPodUNCC/megr2157-portfolio/raw/refs/heads/main/A8 assembly.SLDASM)
+[https://raw.githubusercontent.com/TaiPodUNCC/megr2157-portfolio/blob/main/A8_assembly.SLDASM](https://github.com/TaiPodUNCC/megr2157-portfolio/raw/refs/heads/main/A8_assembly.SLDASM)
 
 
 
