@@ -19,5 +19,10 @@ I began by listing my known values, then setting up equations for Ft, Fr, P, V, 
 
 <img width="458" height="651" alt="Screenshot 2026-11-03 at 5 11 04 AM" src="https://github.com/user-attachments/assets/f8f2cd46-8299-483c-8abe-b32378ffcd60" />
 
+# Bearing Thickness:
+Once again I listed all my known values, then rearranged the pressure equation to solve for bearing thickness. After plugging in values for both input and output I was able to match my findings to bearing options on the McMaster Website.
+
+<img width="687" height="653" alt="Screenshot 2026-11-03 at 5 14 48 AM" src="https://github.com/user-attachments/assets/d15cae3f-eeaf-4117-8345-3e2ddb66f075" />
+
 
 
