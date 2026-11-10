@@ -27,6 +27,13 @@ I began by listing all my known and unknown variables. I used online resources t
 
 <img width="479" height="506" alt="Screenshot 2026-11-10 at 6 11 34 AM" src="https://github.com/user-attachments/assets/84432ebd-2ae4-43ad-b99f-144f0218d4d8" />
 
+# Journal Bearing Material Selection:
+In order to select my bearing material, I needed to determine the max surface speed and PV limit. I began by listing my known and unknown variables, then drawing my free body diagram. I began by calculating the tangental force using the my determined shaft diameter and torque. I then used this value to find the radial force using the 20 percent strain angle from the specifications. Next, I began calculating pressure. I had some difficulties with this as I was not sure if I was meant to calculate length, choose it arbitrarily, or receive it from the specifications. After going over the directions I concluded that it could not be calculated with the information given so I settled on an arbitrary value of 3in. Using this length, shaft diameter, and radial force I found the pressure. Finally I used rotation speed and shaft diameter to find surface speed and combined it with my pressure to get my PV limit. After checking the material chart I realized I had to change my units and while doing so I applied my safety factor which I had forgotten. Using these values I chose Porous Iron as my material as it exceeded my minimum values.
+
+<img width="667" height="434" alt="Screenshot 2026-11-10 at 6 47 55 AM" src="https://github.com/user-attachments/assets/c72ead24-e5e7-4582-8731-19c874ea1ade" />
+
+<img width="555" height="689" alt="Screenshot 2026-11-10 at 6 47 26 AM" src="https://github.com/user-attachments/assets/9e357f55-6e27-482b-bf73-911cc616b4cf" />
+
 
 
 
