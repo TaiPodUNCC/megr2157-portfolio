@@ -39,6 +39,9 @@ I created a simple frame design to hold my pulley system using the same material
 
 <img width="1210" height="611" alt="Screenshot 2026-11-10 at 7 11 03 AM" src="https://github.com/user-attachments/assets/ed303d8a-4ec2-4f26-a5d3-2a16955cb080" />
 
+# Lessons Learned:
+This project took me 2.5 hours to complete. I believe completing similar design processes in previous assignments allowed me to reduce my completion time. During this project I learned how to calculate PV limit of a shaft using torque by calculating tangental and radial force magnitudes.
+
 
 
 
