@@ -34,6 +34,12 @@ In order to select my bearing material, I needed to determine the max surface sp
 
 <img width="555" height="689" alt="Screenshot 2026-11-10 at 6 47 26 AM" src="https://github.com/user-attachments/assets/9e357f55-6e27-482b-bf73-911cc616b4cf" />
 
+# Frame Design:
+I created a simple frame design to hold my pulley system using the same material as my shaft (1060 steel). I intuitively assigned my dimensions then used the Buckling Load Formula to test for maximum allowable force. my determine value was much greater than that created by my pulley system allowing me to comfirm my design without any more testing.
+
+<img width="1210" height="611" alt="Screenshot 2026-11-10 at 7 11 03 AM" src="https://github.com/user-attachments/assets/ed303d8a-4ec2-4f26-a5d3-2a16955cb080" />
+
+
 
 
 
