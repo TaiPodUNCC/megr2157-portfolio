@@ -369,7 +369,11 @@ These two pictures here show the knowns/unknowns, FBD, equations, and calculatio
 
 This is the assembly of all our selected parts put together to make the tensile tester. I had to select adequate frame pieces off of McMaster so that way the crosshead and lead screws would fit nicely within the frame.
 
-Real_A10_Assembly.SLDASM
+
+Download Link:
+
+
+[https://raw.githubusercontent.com/TaiPodUNCC/megr2157-portfolio/blob/main/Real_A10_Assembly.SLDASM](https://github.com/TaiPodUNCC/megr2157-portfolio/raw/refs/heads/main/Real_A10_Assembly.SLDASM)
 
 
 # Tabulating Costs (Tai Podvojsky):
