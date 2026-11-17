@@ -379,6 +379,24 @@ These two pictures here show the knowns/unknowns, FBD, equations, and calculatio
 | 6 | 1 | Crosshead | $30.00 | $30.00 | Designed |
 | | | | **Total Cost** | **$387.84** | |
 
+# Lessons Learned:
+Jason Corum:
+
+
+The material-selection investigation demonstrated the importance of distinguishing **tensile strength** from **yield strength**. Because the selected product listing did not specify a guaranteed yield strength, additional references and a conservative provisional assumption were required.
+
+The axial-stress analysis demonstrated that a component satisfying a nominal strength condition may still be vulnerable to a different failure mode. The conservative buckling analysis resulted in a substantially larger required screw root diameter than the axial-stress calculation.
+
+The buckling calculation also illustrated how end restraints and unsupported length affect component sizing, and why the handbook's limiting thread dimensions are more appropriate for selection than an overly simplified root-diameter approximation.
+
+Finally, the speed and torque calculations demonstrated that lead governs shaft revolutions required for a given crosshead speed, while load and mechanical efficiency govern the required steady-state driving torque.
+
+
+Tai Podvojsky:
+
+
+My sections took me about 3 hours to complete. The biggest lesson I learned during this time was how to create threaded holes in SOLIDWORKS and then mate those holes to screws within an assembly. I now know that to join a screw to a screw hole you need to create planes through both the male and female features and mate those planes to each other rather than mating the surfaces themselves.
+
 
 
 
