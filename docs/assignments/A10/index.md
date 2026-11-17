@@ -365,6 +365,9 @@ These two pictures here show the knowns/unknowns, FBD, equations, and calculatio
 
 <img width="298" height="322" alt="Screenshot 2026-11-17 at 12 39 08 AM" src="https://github.com/user-attachments/assets/2c996389-71d2-491b-9773-763af36274a0" />
 
+## **CAD Model** (Gavin)
+
+This is the assembly of all our selected parts put together to make the tensile tester. I had to select adequate frame pieces off of McMaster so that way the crosshead and lead screws would fit nicely within the frame.
 
 # Tabulating Costs (Tai Podvojsky):
 ## Bill of Materials
