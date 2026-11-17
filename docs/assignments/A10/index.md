@@ -1,4 +1,26 @@
 # A10: Lead Screw Translating System
+
+# Project Description and Objectives
+
+The objective of this project is to conceptually design a mechanically driven tensile testing machine capable of applying a maximum axial tensile load of **2 kN** while maintaining a controllable crosshead speed between **1 and 50 mm/min**.
+
+The design incorporates two identical leadscrews, compatible nuts and flanges, a crosshead, and a supporting frame. The system must provide accurate, repeatable loading while maintaining structural strength and minimizing crosshead deflection.
+
+# Design Requirements
+
+| Parameter | Value |
+|---|---|
+| Maximum tensile load, ΣP | 2,000 N |
+| Number of leadscrews, N<sub>s</sub> | 2 |
+| Load per leadscrew, P | 1,000 N (equal-load assumption) |
+| Crosshead linear speed, \|v\| | 1–50 mm/min |
+| Minimum purchased leadscrew length, l<sub>min</sub> | 18 in (457.2 mm) |
+| Design safety factor, SF | 4 |
+| Maximum crosshead deflection, δ<sub>max</sub> | 0.1 mm |
+| Thread type | Acme; modeled as square threads where directed in lecture |
+| Crosshead model | Simply supported beam (lecture assumption) |
+| Number of thread starts on selected screw | 1 |
+
 # Designing Crosshead (Tai Podvojsky):
 I began by selecting my arbitrary dimensions (length and base) for my crosshead design. To accomplish this I considered other comparable designs I found on the internet as well as the diameter of the nut and lead screw chosen by my teammates. Ultimately I decided on values of .3m and .05m respectively. From there I chose carbon steel for my material to match the material used for the lead screw. Next I parametrically solved for the height (or thickness) of the crosshead by modeling it as a simply loaded beam and applying stress analysis.
 
