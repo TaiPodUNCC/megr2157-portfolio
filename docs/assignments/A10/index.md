@@ -408,5 +408,11 @@ Tai Podvojsky:
 My sections took me about 3 hours to complete. The biggest lesson I learned during this time was how to create threaded holes in SOLIDWORKS and then mate those holes to screws within an assembly. I now know that to join a screw to a screw hole you need to create planes through both the male and female features and mate those planes to each other rather than mating the surfaces themselves.
 
 
+Gavin Sanchez:
+
+
+One of the big lessons I learned during my 3 hours spent doing this assignment was learning how to appropriately set up the bending stress equation for the nut, since the nut was not a flat beam but instead a threaded one so it made it difficult at first on how to approach it. After a while I was able to land on an appropriate equation that included the pitch and number of threads that would be active when the force is applied to them.
+
+
 
 
