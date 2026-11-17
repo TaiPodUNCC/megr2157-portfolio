@@ -31,7 +31,7 @@ Both leadscrews are assumed to have identical geometry and material properties, 
 
 **Notation:** The symbol **Ø** represents diameter. **Ø<sub>maj</sub>** is the major (nominal) diameter; **Ø<sub>R</sub>** or **Ø<sub>min</sub>** is the minor/root diameter; **Ø<sub>p</sub>** is the pitch diameter. These are different dimensions.
 
-![Page 1: Knowns, Unknowns, and Assumptions](images/A10_01_Design_Knowns_Unknowns_Assumptions.jpg)
+<img width="1611" height="2048" alt="A10_01_Design_Knowns_Unknowns_Assumptions" src="https://github.com/user-attachments/assets/a56b4c93-ff74-4afd-9f68-2a1ec86254de" />
 
 *Figure 1. Initial knowns, unknowns, governing conditions, and assumptions.*
 
@@ -91,7 +91,8 @@ The most restrictive result from the investigated axial-stress assumptions was:
 
 This axial-stress requirement alone suggests that several relatively small Acme leadscrews could be sufficient. It does not address the stability of a long screw under compression.
 
-![Page 2: Axial Stress and Material Selection](images/A10_02_Leadscrew_FBD_Axial_Stress_and_Materials.jpg)
+<img width="1608" height="2048" alt="A10_02_Leadscrew_FBD_Axial_Stress_and_Materials" src="https://github.com/user-attachments/assets/968d17d4-094f-4035-972e-39af2ff43be7" />
+
 
 *Figure 2. Individual leadscrew FBD, symbolic axial-stress derivation, material research, and numerical minimum-diameter calculations.*
 
@@ -142,7 +143,8 @@ The more restrictive result is:
 
 **Ø<sub>min,buckling</sub> = 0.43819 in (for l<sub>u</sub> = 24 in)**
 
-![Page 3: Root Diameter Selection and Buckling Setup](images/A10_03_Axial_Diameter_Selection_and_Buckling.jpg)
+<img width="1593" height="2047" alt="A10_03_Axial_Diameter_Selection_and_Buckling" src="https://github.com/user-attachments/assets/92b72b2b-8a2a-4a1a-9946-9bbc04269d98" />
+
 
 *Figure 3. Preliminary Acme thread screening and Euler buckling derivation.*
 
@@ -160,7 +162,8 @@ Thus, the selected thread passes this **preliminary Euler buckling screening**. 
 
 **Engineering limitation:** The 24-inch purchased length is not necessarily the actual unsupported length. The final assembly must establish the actual end restraints, load path, whether the screws are in compression or tension during the test, and the unsupported spans. Euler buckling is an idealized stability model, not a substitute for verifying those conditions.
 
-![Page 4: Buckling Results and Leadscrew Selection](images/A10_04_Buckling_Results_and_Rotational_Speed_FBD.jpg)
+<img width="1583" height="2048" alt="A10_04_Buckling_Results_and_Rotational_Speed_FBD" src="https://github.com/user-attachments/assets/172c52fc-46b6-4826-bdfa-dc9e0528383b" />
+
 
 *Figure 4. Pinned–pinned buckling results, selection of the 5/8"-8 Acme thread, and rotational-speed FBDs.*
 
@@ -299,7 +302,8 @@ Estimated combined required torque **for both leadscrews**:
 
 For independent drives, each drive must supply the per-screw torque. For a common 1:1 drive, the drive system must supply the combined screw torque plus additional drivetrain losses.
 
-![Page 5: Rotational Speed and Driving Torque Calculations](images/A10_05_Rotational_Speed_and_Torque_Calculations.jpg)
+<img width="1576" height="2048" alt="A10_05_Rotational_Speed_and_Torque_Calculations" src="https://github.com/user-attachments/assets/46b349bc-5893-4bbe-bebd-381734effc87" />
+
 
 *Figure 5. Rotational-speed calculations, required driving torque, and the provisional Acme screw/bronze nut efficiency assumption.*
 
