@@ -371,7 +371,7 @@ These two pictures here show the knowns/unknowns, FBD, equations, and calculatio
 
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
 | ---: | ---: | --- | ---: | ---: | --- |
-| 1 | 1 | 932 Bearing Bronze Acme Flange Nut | $138.20 | $138.20 | [Buy here] (https://www.mcmaster.com/95120A119/ |
+| 1 | 1 | 932 Bearing Bronze Acme Flange Nut | $138.20 | $138.20 | [Buy here] (https://www.mcmaster.com/95120A119/) |
 | 2 | 2 | Carbon Steel Acme Lead Screw | $10.29 | $20.58 | [Buy here](https://www.mcmaster.com/98935A914/) |
 | 3 | 4 | Super-Corrosion-Resistant 316 Stainless Steel Socket Head Screw | $0.63 | $6.32 (pack of 10) | [Buy here](https://www.mcmaster.com/90666A013/) |
 | 4 | 2 | T-Slotted Framing Rails (2ft) | $38.12 | $76.42 | [Buy here](https://www.mcmaster.com/products/4658n31/) |
