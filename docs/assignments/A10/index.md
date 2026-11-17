@@ -20,6 +20,19 @@ Finally I added the nut chosen by teammate Gavin to an assembly with my cross he
 
 <img width="528" height="155" alt="Screenshot 2026-11-16 at 11 49 20 PM" src="https://github.com/user-attachments/assets/40703115-5534-4b70-a8d7-996341ac6b2d" />
 
+# Tabulating Costs (Tai Podvojsky):
+## Bill of Materials
+
+| Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
+| ---: | ---: | --- | ---: | ---: | --- |
+| 1 | 1 | 932 Bearing Bronze Acme Flange Nut | $138.20 | $138.20 | [Buy here (https://www.mcmaster.com/95120A119/) |
+| 2 | 2 | Carbon Steel Acme Lead Screw | $10.29 | $20.58 | [Buy here](https://www.mcmaster.com/98935A914/) |
+| 3 | 4 | Super-Corrosion-Resistant 316 Stainless Steel Socket Head Screw | $0.63 | $6.32 (pack of 10) | [Buy here](https://www.mcmaster.com/90666A013/) |
+| 4 | 2 | T-Slotted Framing Rails (2ft) | $38.12 | $76.42 | [Buy here](https://www.mcmaster.com/products/4658n31/) |
+| 5 | 4 | T-Slotted Framing Rails (1.5ft) | $29.08 | $116.32 | [Buy here](https://www.mcmaster.com/products/4658n31/) |
+| 6 | 1 | Crosshead | $30.00 | $30.00 | Designed |
+| | | | **Total Cost** | **$387.84** | |
+
 
 
 
