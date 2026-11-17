@@ -357,6 +357,15 @@ Finally I added the nut chosen by teammate Gavin to an assembly with my cross he
 
 <img width="528" height="155" alt="Screenshot 2026-11-16 at 11 49 20 PM" src="https://github.com/user-attachments/assets/40703115-5534-4b70-a8d7-996341ac6b2d" />
 
+## **Nut Design** (Gavin)
+
+These two pictures here show the knowns/unknowns, FBD, equations, and calculations for determining the bending stress of the flanged nut. A few of my assumptions and knowns came from teammate Jason when he was determining the proper dimensions of the lead screw, some of these knowns/assumptions involve the thread of the lead screw, what material I should apply to the flanged nut, and what type of thread would be used for both lead screw and flanged nut. After getting my knowns/unknowns and my FBD I went on to do my calculations for the bending stress acting on the nut, which I ended up with 549.575 psi after using the formula. With this I ran it against the yield strength to see if the FOS would be sufficient enough above the applied FOS of 4 as described in the assignment and it was as the FOS on the flanged nut was 36.39 which was well above the FOS of 4. The part I decided to choose came from McMaster and its part number is: 95120A119.
+
+<img width="298" height="387" alt="Screenshot 2026-11-17 at 12 39 26 AM" src="https://github.com/user-attachments/assets/bd7e383c-c9e0-4f13-880c-3457f62af129" />
+
+<img width="298" height="322" alt="Screenshot 2026-11-17 at 12 39 08 AM" src="https://github.com/user-attachments/assets/2c996389-71d2-491b-9773-763af36274a0" />
+
+
 # Tabulating Costs (Tai Podvojsky):
 ## Bill of Materials
 
