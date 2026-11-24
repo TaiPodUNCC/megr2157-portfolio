@@ -1077,9 +1077,9 @@ Engineering labor cost is:
 | Team Member | A11 Hours | Labor Cost |
 | --- | ---: | ---: |
 | Jason Corum | 28.000 | $980.00 |
-| Tai Podvojsky | [TODO] | [TODO] |
-| Gavin Sanchez | [TODO] | [TODO] |
-| **Team Total** | **[TODO]** | **[TODO]** |
+| Tai Podvojsky | 9 | $315.00 |
+| Gavin Sanchez | 9 | $315.00 |
+| **Team Total** | 46 | $1610.00 |
 
 Engineering design labor is recorded separately from estimated fabrication-shop labor to avoid counting the same work twice.
 
@@ -1189,6 +1189,9 @@ Finally I ran the FEA simulation and defined plots for stress, displacement, and
 <img width="4007" height="2123" alt="IMG_2857" src="https://github.com/user-attachments/assets/c88e55e7-49b0-4a9d-88aa-92bdac71f07b" />
 
 # Design Floating Bearing Mount (Tai)
+After intuitively deciding on outer dimensions for the floating bearing mount, I Used table a8 in the Machinery's handbook to determine my clearance holes. 
+<img width="2940" height="2079" alt="IMG_2864" src="https://github.com/user-attachments/assets/f1f464e3-1d83-438d-8ed3-7d413e4d81db" />
+<img width="679" height="749" alt="Screenshot 2026-11-24 at 7 44 54 AM" src="https://github.com/user-attachments/assets/fd4e1d8f-3da5-4723-96da-46880ad67f54" />
 
 
 ## 9. Engineering Lessons Learned
@@ -1243,7 +1246,7 @@ The process also demonstrated why standard hardware purchased in packs must be p
 
 ### 9.6 Tai Podvojsky
 
-[TODO: Insert Tai's engineering lessons learned and individual time spent.]
+I spent a total of 9 hours working on this project. One lesson I learned in this time is how to effectively trouble shoot when solving problems. During the final assembly I realized the parts did not fit together perfectly. I had to work through my own and my teammates work to identify and rectify the problems.
 
 ### 9.7 Gavin Sanchez
 
