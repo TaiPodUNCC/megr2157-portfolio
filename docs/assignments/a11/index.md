@@ -4,7 +4,6 @@
 **Assignment:** A11 — Tensile Tester, Part 2  
 **Team Members:** Jason Corum, Tai Podvojsky, Gavin Sanchez  
 **Documentation:** Team project; individual contributions identified by section  
-**Status:** Jason's motor selection, preliminary bracket and coupler analyses, CAD development, and individual bill of materials are complete. Remaining team contributions are identified by section.
 
 ---
 
@@ -44,10 +43,8 @@ The proposed design uses two identical motor-driven leadscrews. Each motor drive
 | Team Member | Primary Contribution |
 | --- | --- |
 | **Jason Corum** | Motor selection, required speed and torque verification, motor mounting bracket, bracket bearing-stress analysis, shaft coupler, motor assembly CAD, and bill of materials |
-| **Tai Podvojsky** | [TODO: Insert Tai's confirmed A11 responsibilities and completed work] |
-| **Gavin Sanchez** | [TODO: Insert Gavin's confirmed A11 responsibilities and completed work, including frame connections and assembly integration] |
-
-The remaining team sections provide space for the frame analysis, finite element results, clamp design, floating bearing support, and final assembly verification.
+| **Tai Podvojsky** | Frame FEA, Final Assembly, floating bearing mount|
+| **Gavin Sanchez** | Frame Design and FEA, Assembly|
 
 ### 1.3 Relationship to A10
 
@@ -1120,63 +1117,7 @@ The complete team cost will be calculated after the remaining structural and mec
 
 ---
 
-## 7. Remaining Team Design Sections
-
-The following sections are reserved for Tai and Gavin's assigned portions of A11.
-
-### 7.1 Structural Frame Design and Load Analysis
-
-**Responsible team member:** [TODO]
-
-[TODO: Insert initial frame knowns, unknowns, material selection, loads, constraints, free-body diagrams, and governing stress and deflection equations.]
-
-The frame analysis must consider the applied specimen load, leadscrew support reactions, motor assembly loads, and resulting forces transmitted through the top and vertical members.
-
-### 7.2 Frame Finite Element Analysis
-
-**Responsible team member:** [TODO]
-
-[TODO: Insert frame FEA screenshots and numerical results.]
-
-The final documentation should identify:
-
-- Assigned materials and material properties.
-- Applied forces and boundary conditions.
-- Mesh settings and any local refinements.
-- Maximum von Mises stress and its location.
-- Maximum displacement and its location.
-- Applicable factor of safety.
-- Mesh convergence or sensitivity findings.
-- Comparison with analytical expectations.
-- Design conclusions and remaining limitations.
-
-### 7.3 Clamp Analysis and Design
-
-**Responsible team member:** [TODO]
-
-[TODO: Insert selected clamp design, material, FBD, stress analysis, sizing equations, CAD model, and final selected dimensions.]
-
-### 7.4 Floating Leadscrew Bearing Mount
-
-**Responsible team member:** [TODO]
-
-[TODO: Insert the selected bearing, fit and mounting requirements, support geometry, calculations, CAD model, and results.]
-
-The bearing arrangement must support the rotating leadscrew while providing the intended axial freedom or restraint specified by the complete shaft-support design.
-
-### 7.5 Complete Tensile Tester Assembly
-
-**Responsible team member:** [TODO]
-
-[TODO: Insert the complete two-motor assembly, selected frame connectors, crosshead integration, clamp, bearing mounts, interference checks, and final system-level conclusions.]
-
-The assembled machine should establish the correct mechanical load path and maintain the relative alignment of the two rotating leadscrews.
-
-The motor support arrangement from Jason and Gavin's work is incorporated into this complete machine.
-
----
-
-## 8. Summary of Jason's Engineering Results
+## 7. Summary of Jason's Engineering Results
 
 | Parameter | Selected or Calculated Result |
 | --- | --- |
@@ -1306,8 +1247,7 @@ The process also demonstrated why standard hardware purchased in packs must be p
 
 ### 9.7 Gavin Sanchez
 
-[TODO: Insert Gavin's engineering lessons learned and individual time spent.]
-
+One of the big lessons I learned while doing this assignment was how to apply the forces properly to the top frame of the tensile tester since I needed the axial force to be applied over an area on the top frame, while also simultaneously figuring out how to apply the torque to the frame as well. For the purely axial forces I had decided to cut slightly into the top frame so I could place the forces evenly across it in the area it needed to be. As for the torque I had to get creative and use this feature I have never used before in the simulation tab called "Remote Load/Mass" which allowed me to select a coordinate system and a place on the model to apply the torque so I could get an accurate FEA model. Time spent: 9 hours.
 ---
 
 ## 10. Engineering Conclusions
@@ -1404,85 +1344,3 @@ The final complete-machine cost will incorporate the additional team components 
 
 ---
 
-## 12. Final Documentation and Verification Checklist
-
-### Jason Corum — Motor Selection
-
-- [x] Determine required torque and rotational speed.
-- [x] Research candidate motors and gearheads.
-- [x] Select the motor, gearhead, and driver.
-- [x] Document rated power, torque, speed, electrical specifications, and mounting interface.
-- [x] Verify nominal gearbox output-speed coverage.
-- [x] Verify nominal torque safety-factor margin.
-- [x] Obtain the manufacturer's speed–torque curve.
-- [x] Obtain the manufacturer's permissible gearhead torque table.
-- [x] Document the unresolved electronics restriction.
-
-### Jason Corum — Motor Mounting Bracket
-
-- [x] Select bracket material and nominal yield strength.
-- [x] Develop motor-to-bracket and bracket-to-frame FBDs.
-- [x] Derive the nominal bolt-group reaction equations.
-- [x] Calculate mounting-bolt reaction forces.
-- [x] Determine nominal bearing stresses.
-- [x] Calculate the theoretical minimum plate thickness.
-- [x] Select a practical plate thickness.
-- [x] Create the bracket SOLIDWORKS model.
-- [x] Revise the mounting-hole pattern for bolt accessibility.
-- [x] Check principal CAD dimensions and clearances.
-
-### Jason Corum — Shaft Coupler
-
-- [x] Identify motor and leadscrew shaft dimensions.
-- [x] Select coupler material.
-- [x] Develop the simplified torsional FBD.
-- [x] Derive the torsional stress equations.
-- [x] Calculate minimum outside diameter.
-- [x] Select final preliminary coupler dimensions.
-- [x] Calculate nominal torsional shear stress.
-- [x] Verify nominal torsional safety factor.
-- [x] Model the stepped-bore coupler in SOLIDWORKS.
-- [x] Include the motor-side key and set screw.
-- [x] Check nominal CAD alignment.
-
-### Jason Corum and Gavin Sanchez — Motor Assembly
-
-- [x] Develop the preliminary motor mounting assembly.
-- [x] Check the bracket-to-frame interface.
-- [x] Revise the bracket for fastener accessibility.
-- [x] Select the final 80 mm 40-4080 supports.
-- [x] Specify two M8 tapped holes per support.
-- [x] Establish the total quantity of four supports.
-- [x] Incorporate the permanent supports into the motor assembly.
-- [x] Upload the updated native SOLIDWORKS archive to GitHub.
-
-### Jason Corum — Bill of Materials
-
-- [x] Price the selected motor systems.
-- [x] Include the required driver power cables.
-- [x] Estimate bracket material and fabrication costs.
-- [x] Estimate coupler material and fabrication costs.
-- [x] Price the four permanent 80 mm motor supports.
-- [x] Price the motor mounting fasteners and hardware.
-- [x] Record Gavin's selected overall-frame connector and unit cost.
-- [x] Calculate 28.000 hours of engineering labor.
-- [x] Calculate Jason's quantified individual planning total.
-- [x] Document pricing assumptions and estimated fabrication allowances.
-
-### Remaining Team Contributions
-
-- [ ] Add Tai's assigned calculations, CAD, and lessons learned.
-- [ ] Add Gavin's assigned calculations, CAD, and lessons learned.
-- [ ] Add overall frame strength and FEA results.
-- [ ] Add the clamp analysis and design.
-- [ ] Add floating bearing-support design and verification.
-- [ ] Confirm the quantity and compatibility of overall frame connectors.
-- [ ] Complete the full machine assembly and system-level verification.
-- [ ] Add the remaining structural and bearing-support costs.
-- [ ] Add Tai's and Gavin's engineering labor hours.
-- [ ] Calculate the final complete-project cost.
-- [ ] Confirm final GitHub file links and Canvas submission requirements.
-
----
-
-**Final Individual Status:** Jason's assigned motor-selection calculations, preliminary motor mounting bracket analysis, shaft coupler torsion analysis, main CAD development, and quantified individual BOM are documented. Remaining team-level design, verification, and cost contributions are reserved for the responsible teammates. The selected electronic driver and fabrication-level joint details remain documented limitations rather than claims of completed physical validation.
