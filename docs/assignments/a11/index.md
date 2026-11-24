@@ -1193,6 +1193,8 @@ After intuitively deciding on outer dimensions for the floating bearing mount, I
 <img width="2940" height="2079" alt="IMG_2864" src="https://github.com/user-attachments/assets/f1f464e3-1d83-438d-8ed3-7d413e4d81db" />
 <img width="679" height="749" alt="Screenshot 2026-11-24 at 7 44 54 AM" src="https://github.com/user-attachments/assets/fd4e1d8f-3da5-4723-96da-46880ad67f54" />
 
+## Final Assembly
+
 
 ## 9. Engineering Lessons Learned
 
