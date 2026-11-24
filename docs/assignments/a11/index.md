@@ -1247,7 +1247,8 @@ The process also demonstrated why standard hardware purchased in packs must be p
 
 ### 9.7 Gavin Sanchez
 
-One of the big lessons I learned while doing this assignment was how to apply the forces properly to the top frame of the tensile tester since I needed the axial force to be applied over an area on the top frame, while also simultaneously figuring out how to apply the torque to the frame as well. For the purely axial forces I had decided to cut slightly into the top frame so I could place the forces evenly across it in the area it needed to be. As for the torque I had to get creative and use this feature I have never used before in the simulation tab called "Remote Load/Mass" which allowed me to select a coordinate system and a place on the model to apply the torque so I could get an accurate FEA model. Time spent: 9 hours.
+One of the big lessons I learned while doing this assignment was how to apply the forces properly to the top frame of the tensile tester since I needed the axial force to be applied over an area on the top frame, while also simultaneously
+figuring out how to apply the torque to the frame as well. For the purely axial forces I had decided to cut slightly into the top frame so I could place the forces evenly across it in the area it needed to be. As for the torque I had to get creative and use this feature I have never used before in the simulation tab called "Remote Load/Mass" which allowed me to select a coordinate system and a place on the model to apply the torque so I could get an accurate FEA model.  
 ---
 
 ## 10. Engineering Conclusions
