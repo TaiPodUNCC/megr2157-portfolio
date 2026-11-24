@@ -90,7 +90,8 @@ The preliminary analysis assumes:
 - Axial thrust is carried through the appropriate leadscrew bearings and frame supports, rather than directly by the motor output shafts.
 - Manufacturer-rated gearbox torque is used for the motor selection rather than maximum instantaneous torque.
 
-![Motor selection knowns and assumptions](images/A11-1.jpg)
+<img width="2328" height="3024" alt="A11-1" src="https://github.com/user-attachments/assets/cc1afadc-651f-4425-8549-543079225b1a" />
+
 
 *Figure 1. Jason's initial motor-selection knowns, unknowns, assumptions, and selected component specifications.*
 
@@ -242,7 +243,8 @@ The rated gearbox output torque exceeds the preliminary leadscrew torque require
 
 The manufacturer's maximum instantaneous torque is **40.000 N·m** for the selected configuration. This higher value is not substituted for the continuous torque rating.
 
-![Motor selection numerical calculations](images/A11-2.jpg)
+<img width="2400" height="3100" alt="A11-2" src="https://github.com/user-attachments/assets/67c90b39-a70f-44cf-b5bd-ed5d9cdf72f6" />
+
 
 *Figure 2. Motor rotational-speed requirements, driving-torque calculations, and preliminary motor selection results.*
 
@@ -250,7 +252,8 @@ The manufacturer's maximum instantaneous torque is **40.000 N·m** for the selec
 
 The manufacturer's speed–torque graph identifies the continuous-duty and limited-duty regions for the 100 W BLV Series R Type motor.
 
-![Oriental Motor speed-torque curve](images/A11_Motor_Speed_Torque_Curve.jpg)
+<img width="767" height="470" alt="A11_Motor_Speed_Torque_Curve" src="https://github.com/user-attachments/assets/ca1ffdf1-3c95-4460-b199-4ea5cdb383bf" />
+
 
 *Figure 3. Manufacturer speed–torque characteristics for the 100 W BLV Series R Type motor, including its continuous-duty region. Source: Oriental Motor, BLV Series R Type catalog, p. 24.*
 
@@ -264,7 +267,8 @@ This interval lies within the graph's continuous-duty speed region.
 
 The manufacturer's corresponding gearbox specifications confirm the permissible torque after the selected 100:1 reduction.
 
-![Oriental Motor gearhead permissible torque](images/A11_Gearhead_Permissible_Torque.jpg)
+<img width="1712" height="1595" alt="A11_Gearhead_Permissible_Torque" src="https://github.com/user-attachments/assets/d425106d-f13b-4fde-b0e9-89b7c0df8b23" />
+
 
 *Figure 4. Manufacturer parallel-shaft gearhead specifications showing 27.400 N·m permissible continuous torque and 40.000 N·m maximum instantaneous torque for the 100 W motor with 100:1 gear reduction. Source: Oriental Motor, BLV Series R Type catalog.*
 
@@ -362,7 +366,8 @@ The selected design torque is the manufacturer's rated gearbox output torque:
 
 <p align="center"><strong>T<sub>MB</sub> = 27.400 N·m = 27,400.000 N·mm</strong></p>
 
-![Motor mounting bracket FBDs](images/A11-3.jpg)
+<img width="1856" height="2376" alt="A11-3" src="https://github.com/user-attachments/assets/7f5f8fb1-fcca-4e48-b004-8d668f773e77" />
+
 
 *Figure 5. Motor-to-bracket and bracket-to-frame free-body diagrams, bolt-hole coordinates, applied reactions, and bearing-stress model.*
 
@@ -446,7 +451,8 @@ The motor mounting-hole bearing stress governs the simplified analysis:
 
 <p align="center"><strong>σ<sub>MB,max</sub> = 2.593 MPa</strong></p>
 
-![Bracket reaction and bearing equations](images/A11-4.jpg)
+<img width="2340" height="3064" alt="A11-4" src="https://github.com/user-attachments/assets/a10bea8c-ba11-4e90-bf8f-fe74c42c9e97" />
+
 
 *Figure 6. Parametric bolt reactions, projected bearing-area relationships, and minimum-thickness equations.*
 
@@ -496,7 +502,8 @@ The selected plate therefore exceeds the required safety-factor margin under the
 
 **Model limitation:** This calculation evaluates nominal bolt-hole bearing stress caused by the applied torque reaction. It does not independently establish the safety factors against plate bending, deflection, bolt shear and tension, edge tearing, thread failure, fatigue, or local stress concentrations.
 
-![Bracket numerical solutions](images/A11-5.jpg)
+<img width="2508" height="3220" alt="A11-5" src="https://github.com/user-attachments/assets/ed551330-a85a-4692-8e7d-85469a65e335" />
+
 
 *Figure 7. Final bracket bearing-stress results, minimum required thickness, nominal bearing safety factor, and initial coupler analysis.*
 
@@ -690,7 +697,8 @@ Using unrounded intermediate values:
 
 The selected coupler satisfies the assigned preliminary pure-torsion requirement.
 
-![Coupler torsional analysis](images/A11-6.jpg)
+<img width="2164" height="2828" alt="A11-6" src="https://github.com/user-attachments/assets/eeac7292-8827-4571-a666-58b08dacdfd8" />
+
 
 *Figure 8. Coupler governing equations, allowable shear stress, minimum outside diameter, selected dimensions, and nominal torsional safety factor.*
 
