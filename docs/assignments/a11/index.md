@@ -1215,6 +1215,24 @@ The motor support arrangement from Jason and Gavin's work is incorporated into t
 | Jason's quantified planning cost | $3,807.42 |
 
 ---
+## **Analyze and Design a Frame** (Gavin and Tai)
+
+_Selecting Proper Connectors for the Frames_
+
+These three pictures show all my knowns/unknowns, calculations/equations, and FBD for determining an adequate connector between the side and top/bottom frame of the tensile tester. I used most of my knowns from Jason's part of the motor selection since I needed it to determine a connector that would be able to withstand the forces of the motor but still fit properly within the slot of the slotted T-Frames. Once I got my knowns/unknowns completed I moved onto drawing the FBD of the top frame which wasn't too difficult. Then once the FBD of the top frame was completed I moved onto to getting all the equations and calculations done which took me a good while to complete, but once I had all those completed, I selected a suitable connector off of McMaster-Carr and it was Gusset Bracket with a part number of 47065T799.
+
+<img width="3024" height="4032" alt="IMG_3644" src="https://github.com/user-attachments/assets/b3f06e84-1db0-44c1-ac41-b1ebbfb18488" />
+<img width="3024" height="4032" alt="IMG_3642" src="https://github.com/user-attachments/assets/11b48f01-b792-4a2d-9493-0e229f06192e" />
+<img width="3024" height="4032" alt="IMG_3643" src="https://github.com/user-attachments/assets/91d39998-da76-4e27-a7ff-2e820a496c05" />
+
+_FEA on the Top Frame_
+
+These three images show the Von-Mises, Deflection, and FEA for the top frame of the tensile tester. I found it pretty hard to set up the forces and torque correctly here and I had to use some interesting methods to, at least what I think, place the forces in their correct relative places along the top frame. There is really nothing to change upon with the design of the top frame since the Von-Mises had the model stay in the blue area the whole time. The deflection was also quite minimal so nothing to change they're due to that. Overall, the frame was pretty well sound based on these calculated forces applied to it.
+
+<img width="1217" height="535" alt="92bb7c2d-a4fb-4bbf-a945-18b2404d2b51" src="https://github.com/user-attachments/assets/60683b90-694f-4db5-bf94-5f337ae6ea49" />
+<img width="512" height="348" alt="image_795788" src="https://github.com/user-attachments/assets/9c2557a0-d4f4-440b-841d-7b74f900e017" />
+<img width="512" height="247" alt="image_795b6a" src="https://github.com/user-attachments/assets/38b9fae3-4ab6-48a5-9d89-ce5940e82c3f" />
+
 
 ## 9. Engineering Lessons Learned
 
