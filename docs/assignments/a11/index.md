@@ -1247,6 +1247,8 @@ Next I added a solid mesh to my simulation with mesh controls that dictate small
 Finally I ran the FEA simulation and defined plots for stress, displacement, and factor of safety. All were well within tolerance confirming that no redesigns or alterations are required.
 <img width="4007" height="2123" alt="IMG_2857" src="https://github.com/user-attachments/assets/c88e55e7-49b0-4a9d-88aa-92bdac71f07b" />
 
+# Design Floating Bearing Mount (Tai)
+
 
 ## 9. Engineering Lessons Learned
 
