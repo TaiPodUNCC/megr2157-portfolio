@@ -1240,7 +1240,12 @@ I began by adding required fixed geometry along with axial compression and trans
 
 <img width="410" height="297" alt="Screenshot 2026-11-24 at 3 00 39 AM" src="https://github.com/user-attachments/assets/40f0e16d-49d5-40c9-aba9-829099204c1f" />
 
+Next I added a solid mesh to my simulation with mesh controls that dictate smaller element sizes around ends and fillets of the frame.
 
+<img width="3024" height="4032" alt="IMG_2856" src="https://github.com/user-attachments/assets/f53b5d11-e1c3-4013-9f4e-41386bb325d1" />
+
+Finally I ran the FEA simulation and defined plots for stress, displacement, and factor of safety. All were well within tolerance confirming that no redesigns or alterations are required.
+<img width="4007" height="2123" alt="IMG_2857" src="https://github.com/user-attachments/assets/c88e55e7-49b0-4a9d-88aa-92bdac71f07b" />
 
 
 ## 9. Engineering Lessons Learned
