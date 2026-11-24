@@ -1193,8 +1193,8 @@ After intuitively deciding on outer dimensions for the floating bearing mount, I
 <img width="2940" height="2079" alt="IMG_2864" src="https://github.com/user-attachments/assets/f1f464e3-1d83-438d-8ed3-7d413e4d81db" />
 <img width="679" height="749" alt="Screenshot 2026-11-24 at 7 44 54 AM" src="https://github.com/user-attachments/assets/fd4e1d8f-3da5-4723-96da-46880ad67f54" />
 
-## Final Assembly
-
+## Final Assembly (Tai Podvojsky)
+[https://raw.githubusercontent.com/TaiPodUNCC/megr2157-portfolio/blob/main/Real_A10_Assembly.SLDASM](https://github.com/TaiPodUNCC/megr2157-portfolio/raw/refs/heads/main/FINAL_A11_ASSEMBLY.SLDASM)
 
 ## 9. Engineering Lessons Learned
 
