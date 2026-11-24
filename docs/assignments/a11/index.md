@@ -1233,6 +1233,15 @@ These three images show the Von-Mises, Deflection, and FEA for the top frame of 
 <img width="512" height="348" alt="image_795788" src="https://github.com/user-attachments/assets/9c2557a0-d4f4-440b-841d-7b74f900e017" />
 <img width="512" height="247" alt="image_795b6a" src="https://github.com/user-attachments/assets/38b9fae3-4ab6-48a5-9d89-ce5940e82c3f" />
 
+# FEA on Vertical Frame:
+I began by adding required fixed geometry along with axial compression and transverse loading to reflect motor calculations. After some deliberation I determine that due to the nature of the frames connection points the grip line is located at its top surface meaning no split line needs to be added.
+
+<img width="469" height="604" alt="Screenshot 2026-11-24 at 3 00 20 AM" src="https://github.com/user-attachments/assets/fe5efbe0-47f5-481f-88f0-9cb646b96e9e" />
+
+<img width="410" height="297" alt="Screenshot 2026-11-24 at 3 00 39 AM" src="https://github.com/user-attachments/assets/40f0e16d-49d5-40c9-aba9-829099204c1f" />
+
+
+
 
 ## 9. Engineering Lessons Learned
 
